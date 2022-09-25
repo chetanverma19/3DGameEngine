@@ -1,0 +1,11 @@
+﻿  demo3DEngine.cpp
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\consoleWindowEngine.h(767,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\consoleWindowEngine.h(1107,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\consoleWindowEngine.h(1204,1): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(129,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(129,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(128,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(128,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(127,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(127,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  demo3DEngine.vcxproj -> C:\Users\chetankrishify\source\repos\demo3DEngine\x64\Debug\demo3DEngine.exe

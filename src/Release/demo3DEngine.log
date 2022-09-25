@@ -1,0 +1,12 @@
+﻿  demo3DEngine.cpp
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(129,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(129,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(128,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(128,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(127,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(127,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 317 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  demo3DEngine.vcxproj -> C:\Users\chetankrishify\source\repos\demo3DEngine\Release\demo3DEngine.exe

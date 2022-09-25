@@ -1,0 +1,23 @@
+﻿  demo3DEngine.cpp
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\consoleWindowEngine.h(645,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\consoleWindowEngine.h(985,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\consoleWindowEngine.h(1082,1): warning C4312: 'type cast': conversion from 'DWORD' to 'consoleWindowEngine *' of greater size
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(611,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(618,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(618,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(618,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(618,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(618,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(618,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(621,105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(621,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(621,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(621,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(621,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chetankrishify\source\repos\demo3DEngine\demo3DEngine\demo3DEngine.cpp(621,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  0 of 684 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  demo3DEngine.vcxproj -> C:\Users\chetankrishify\source\repos\demo3DEngine\x64\Release\demo3DEngine.exe
