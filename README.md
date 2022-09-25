@@ -1,6 +1,10 @@
 # 3DGameEngine
 3D Game Engine from Scratch
 
+Executable: /exe/demo3DEngine.exe 
+
+Main Code File: /src/demo3DEngine.cpp
+
 Ideal Screen Width: 640
 Ideal Screen Height: 360
 
